@@ -1,7 +1,7 @@
 h1{color: darkslategray;
 }
 
-h2{color: darkred;
+h2{color: rgb(255, 0, 140);
 }
 
 h3{color: rgb(20, 35, 104);
@@ -18,3 +18,5 @@ border-width: 5px;
 h4{text-align: right;}
 
 h4{color: brown;}
+
+
